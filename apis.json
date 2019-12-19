@@ -1,0 +1,48 @@
+{
+    "name": "OpenSwitch",
+    "description": "<p>Community-Based, Open Source, Full-Featured Network Operating System. OpenSwitch provides a fully-featured L2\/L3 control plane stack, traditional and programmatic, declarative control plane. The 24x7 nature of global digital economy and the explosion of data have changed how we think about data center networking. It&rsquo;s time for the separation of switch hardware and software&mdash;delivered through an open environment based on open source established practices and true community involvement from developers and users.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/openswitch-logo.png",
+    "tags": [
+        "have api",
+        "networks"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/openswitch\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "OpenSwitch REST API",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/openswitch-logo.png",
+            "humanURL": "http:\/\/openswitch.net\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/openswitch-rest-api-openapi.json"
+                },
+                {
+                    "type": "x-postman-collecction",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/openswitch-rest-api-postman-collection.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Documentation",
+            "url": "http:\/\/api.openswitch.net\/rest\/dist\/index.html"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/open-switch"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/openswitch.net\/"
+        }
+    ]
+}
